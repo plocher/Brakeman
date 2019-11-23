@@ -2180,8 +2180,8 @@ type 0309, grid 2.5 mm</description>
 <sheets>
 <sheet>
 <plain>
-<text x="152.4" y="27.94" size="2.54" layer="91">DCC Flangman/Brakeman</text>
-<text x="236.22" y="7.62" size="2.54" layer="91">v1.0</text>
+<text x="154.94" y="27.94" size="2.54" layer="91">DCC Flagman/Brakeman</text>
+<text x="238.76" y="7.62" size="2.54" layer="91">V1.1</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
