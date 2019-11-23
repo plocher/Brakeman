@@ -1,3 +1,11 @@
 An electronic DCC-track-driven figurine with a red or blue LED
 
-The 2.1 panel was fragile - this attempts to improve things
+Designed for fabrication and ease of assembly
+
+For best results when fabing, choose
+  * ENIG (gold) rather than a Hot Air Solder Layer (HASL) for the pads
+  * White or Blue soldermask
+  * Panalize = 1
+
+
+
