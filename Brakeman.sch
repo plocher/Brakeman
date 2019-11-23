@@ -2204,74 +2204,79 @@ type 0309, grid 2.5 mm</description>
 <parts>
 <part name="FRAME1" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
 <part name="R1" library="resistor" deviceset="R-US_" device="0204/5" value="1k0"/>
-<part name="PADN3" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PADS2" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PADN2" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PADS4" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADNF2" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADSF" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADNF" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADSF2" library="wirepad" deviceset="SMD2" device=""/>
 <part name="PADL1" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PADN4" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PADN6" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADNA" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADNA2" library="wirepad" deviceset="SMD2" device=""/>
 <part name="PADL2" library="wirepad" deviceset="SMD2" device=""/>
 </parts>
 <sheets>
 <sheet>
 <plain>
+<text x="66.04" y="78.74" size="1.27" layer="91">N</text>
+<text x="238.76" y="7.62" size="2.54" layer="91">V2.0</text>
 <text x="154.94" y="27.94" size="2.54" layer="91">DCC Flagman/Brakeman</text>
-<text x="236.22" y="7.62" size="2.54" layer="91">V1.3</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
 <instance part="FRAME1" gate="G$2" x="147.32" y="0"/>
-<instance part="R1" gate="G$1" x="40.64" y="137.16" rot="R270"/>
-<instance part="PADN3" gate="1" x="17.78" y="124.46"/>
-<instance part="PADS2" gate="1" x="43.18" y="114.3" rot="R180"/>
-<instance part="PADN2" gate="1" x="17.78" y="114.3"/>
-<instance part="PADS4" gate="1" x="43.18" y="129.54" rot="R180"/>
-<instance part="PADL1" gate="1" x="43.18" y="144.78" rot="R180"/>
-<instance part="PADN4" gate="1" x="17.78" y="129.54"/>
-<instance part="PADN6" gate="1" x="17.78" y="139.7"/>
-<instance part="PADL2" gate="1" x="43.18" y="149.86" rot="R180"/>
+<instance part="R1" gate="G$1" x="88.9" y="106.68" rot="R270"/>
+<instance part="PADNF2" gate="1" x="66.04" y="93.98"/>
+<instance part="PADSF" gate="1" x="91.44" y="86.36" rot="R180"/>
+<instance part="PADNF" gate="1" x="66.04" y="86.36"/>
+<instance part="PADSF2" gate="1" x="91.44" y="93.98" rot="R180"/>
+<instance part="PADL1" gate="1" x="91.44" y="124.46" rot="R180"/>
+<instance part="PADNA" gate="1" x="66.04" y="104.14"/>
+<instance part="PADNA2" gate="1" x="66.04" y="111.76"/>
+<instance part="PADL2" gate="1" x="91.44" y="132.08" rot="R180"/>
 </instances>
 <busses>
 </busses>
 <nets>
 <net name="N" class="0">
 <segment>
-<wire x1="20.32" y1="114.3" x2="20.32" y2="109.22" width="0.1524" layer="91"/>
-<junction x="20.32" y="114.3"/>
-<label x="20.32" y="109.22" size="1.778" layer="95" xref="yes"/>
-<pinref part="PADN3" gate="1" pin="P"/>
-<pinref part="PADN2" gate="1" pin="P"/>
-<wire x1="20.32" y1="114.3" x2="20.32" y2="124.46" width="0.1524" layer="91"/>
-<pinref part="PADN4" gate="1" pin="P"/>
-<wire x1="20.32" y1="124.46" x2="20.32" y2="129.54" width="0.1524" layer="91"/>
-<junction x="20.32" y="124.46"/>
-<junction x="20.32" y="129.54"/>
-<pinref part="PADN6" gate="1" pin="P"/>
-<wire x1="20.32" y1="129.54" x2="20.32" y2="139.7" width="0.1524" layer="91"/>
+<pinref part="PADNF" gate="1" pin="P"/>
+<wire x1="68.58" y1="86.36" x2="76.2" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="76.2" y1="86.36" x2="76.2" y2="93.98" width="0.1524" layer="91"/>
+<pinref part="PADNA2" gate="1" pin="P"/>
+<wire x1="76.2" y1="93.98" x2="76.2" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="76.2" y1="104.14" x2="76.2" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="76.2" y1="111.76" x2="68.58" y2="111.76" width="0.1524" layer="91"/>
+<pinref part="PADNA" gate="1" pin="P"/>
+<wire x1="68.58" y1="104.14" x2="76.2" y2="104.14" width="0.1524" layer="91"/>
+<junction x="76.2" y="104.14"/>
+<pinref part="PADNF2" gate="1" pin="P"/>
+<wire x1="68.58" y1="93.98" x2="76.2" y2="93.98" width="0.1524" layer="91"/>
+<junction x="76.2" y="93.98"/>
 </segment>
 </net>
 <net name="S" class="0">
 <segment>
-<wire x1="40.64" y1="132.08" x2="40.64" y2="129.54" width="0.1524" layer="91"/>
-<label x="40.64" y="109.22" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="PADSF" gate="1" pin="P"/>
+<wire x1="88.9" y1="86.36" x2="83.82" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="83.82" y1="86.36" x2="83.82" y2="93.98" width="0.1524" layer="91"/>
+<pinref part="PADSF2" gate="1" pin="P"/>
+<wire x1="83.82" y1="93.98" x2="88.9" y2="93.98" width="0.1524" layer="91"/>
 <pinref part="R1" gate="G$1" pin="2"/>
-<pinref part="PADS4" gate="1" pin="P"/>
-<junction x="40.64" y="129.54"/>
-<pinref part="PADS2" gate="1" pin="P"/>
-<junction x="40.64" y="114.3"/>
-<wire x1="40.64" y1="129.54" x2="40.64" y2="114.3" width="0.1524" layer="91"/>
-<wire x1="40.64" y1="114.3" x2="40.64" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="101.6" x2="83.82" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="83.82" y1="101.6" x2="83.82" y2="93.98" width="0.1524" layer="91"/>
+<junction x="83.82" y="93.98"/>
 </segment>
 </net>
 <net name="LIMITED" class="0">
 <segment>
 <pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="40.64" y1="142.24" x2="40.64" y2="144.78" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="111.76" x2="83.82" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="83.82" y1="111.76" x2="83.82" y2="124.46" width="0.1524" layer="91"/>
 <pinref part="PADL1" gate="1" pin="P"/>
+<wire x1="83.82" y1="124.46" x2="88.9" y2="124.46" width="0.1524" layer="91"/>
 <pinref part="PADL2" gate="1" pin="P"/>
-<wire x1="40.64" y1="144.78" x2="40.64" y2="149.86" width="0.1524" layer="91"/>
-<junction x="40.64" y="144.78"/>
+<wire x1="88.9" y1="132.08" x2="83.82" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="83.82" y1="132.08" x2="83.82" y2="124.46" width="0.1524" layer="91"/>
+<junction x="83.82" y="124.46"/>
 </segment>
 </net>
 </nets>

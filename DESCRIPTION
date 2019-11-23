@@ -1,5 +1,15 @@
 An electronic DCC-track-driven figurine with a red or blue LED
 
-Panelized
+V2.0 is effectively the same as v1.3, but it has better documentation
+in the gerber files for panelization and adds a couple of traces
+between the base and the figure to allow full panel prebuilds and
+easy testing - the 2 traces are intended to be cut during the final
+assembly process.
 
+This version adds back the vias on the feet to allow for adding
+support wires to reinforce the solder joint that is prone to snapping
+off when Brakie is taken out of service and stuck in a pocket - and
+then sat upon...
+
+Finally, the figure is now wearing a belt :-)
 
