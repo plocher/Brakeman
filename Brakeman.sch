@@ -53,6 +53,10 @@
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
 <layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -61,6 +65,7 @@
 <layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="99" name="Anatomie" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="100" name="Muster" color="7" fill="1" visible="no" active="no"/>
 <layer number="101" name="Patch_Top" color="12" fill="4" visible="no" active="yes"/>
 <layer number="102" name="Vscore" color="7" fill="1" visible="no" active="yes"/>
@@ -69,12 +74,33 @@
 <layer number="105" name="tPlate" color="7" fill="1" visible="no" active="yes"/>
 <layer number="106" name="bPlate" color="7" fill="1" visible="no" active="yes"/>
 <layer number="107" name="Crop" color="7" fill="1" visible="no" active="yes"/>
+<layer number="108" name="fp8" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="109" name="fp9" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="110" name="fp0" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="111" name="bdokum" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="112" name="tSilk" color="7" fill="1" visible="no" active="no"/>
+<layer number="113" name="IDFDebug" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="116" name="Patch_BOT" color="9" fill="4" visible="no" active="yes"/>
+<layer number="118" name="Rect_Pads" color="7" fill="1" visible="no" active="no"/>
 <layer number="121" name="_tsilk" color="7" fill="1" visible="no" active="yes"/>
 <layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="123" name="tTestmark" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="124" name="bTestmark" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="125" name="_tNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="126" name="_bNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="127" name="_tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="128" name="_bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="129" name="Mask" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="131" name="tAdjust" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="132" name="bAdjust" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="144" name="Drill_legend" color="7" fill="1" visible="no" active="yes"/>
+<layer number="150" name="Notes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="151" name="HeatSink" color="7" fill="1" visible="no" active="yes"/>
+<layer number="152" name="_bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="153" name="FabDoc1" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="154" name="FabDoc2" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="155" name="FabDoc3" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="199" name="Contour" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="200" name="200bmp" color="1" fill="10" visible="no" active="yes"/>
 <layer number="201" name="201bmp" color="2" fill="10" visible="no" active="yes"/>
 <layer number="202" name="202bmp" color="3" fill="10" visible="no" active="yes"/>
@@ -100,9 +126,19 @@
 <layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
 <layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
 <layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
+<layer number="225" name="225bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="226" name="226bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="227" name="227bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="228" name="228bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="229" name="229bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="230" name="230bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="231" name="231bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="248" name="Housing" color="7" fill="1" visible="no" active="no"/>
+<layer number="249" name="Edge" color="7" fill="1" visible="no" active="no"/>
 <layer number="250" name="Descript" color="3" fill="1" visible="no" active="no"/>
 <layer number="251" name="SMDround" color="12" fill="11" visible="no" active="no"/>
 <layer number="254" name="cooling" color="7" fill="1" visible="no" active="yes"/>
+<layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
 <libraries>
@@ -2167,81 +2203,75 @@ type 0309, grid 2.5 mm</description>
 </classes>
 <parts>
 <part name="FRAME1" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
-<part name="R1" library="resistor" deviceset="R-US_" device="R0805"/>
-<part name="PAD23" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PAD10" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PAD20" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PAD11" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PAD21" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PAD12" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PAD14" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PAD24" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PAD1" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PAD2" library="wirepad" deviceset="SMD2" device=""/>
+<part name="R1" library="resistor" deviceset="R-US_" device="0204/5" value="1k0"/>
+<part name="PADN3" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADS2" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADN2" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADS4" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADL1" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADN4" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADN6" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADL2" library="wirepad" deviceset="SMD2" device=""/>
 </parts>
 <sheets>
 <sheet>
 <plain>
-<text x="236.22" y="7.62" size="2.54" layer="91">V1.2</text>
-<text x="149.86" y="27.94" size="2.54" layer="91">DCC Flagman/Brakeman</text>
+<text x="154.94" y="27.94" size="2.54" layer="91">DCC Flagman/Brakeman</text>
+<text x="236.22" y="7.62" size="2.54" layer="91">V1.3</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
 <instance part="FRAME1" gate="G$2" x="147.32" y="0"/>
-<instance part="R1" gate="G$1" x="104.14" y="96.52" rot="R270"/>
-<instance part="PAD23" gate="1" x="81.28" y="91.44"/>
-<instance part="PAD10" gate="1" x="106.68" y="76.2" rot="R180"/>
-<instance part="PAD20" gate="1" x="81.28" y="76.2"/>
-<instance part="PAD11" gate="1" x="106.68" y="81.28" rot="R180"/>
-<instance part="PAD21" gate="1" x="81.28" y="81.28"/>
-<instance part="PAD12" gate="1" x="106.68" y="88.9" rot="R180"/>
-<instance part="PAD14" gate="1" x="106.68" y="104.14" rot="R180"/>
-<instance part="PAD24" gate="1" x="81.28" y="96.52"/>
-<instance part="PAD1" gate="1" x="106.68" y="83.82" rot="R180"/>
-<instance part="PAD2" gate="1" x="81.28" y="101.6"/>
+<instance part="R1" gate="G$1" x="40.64" y="137.16" rot="R270"/>
+<instance part="PADN3" gate="1" x="17.78" y="124.46"/>
+<instance part="PADS2" gate="1" x="43.18" y="114.3" rot="R180"/>
+<instance part="PADN2" gate="1" x="17.78" y="114.3"/>
+<instance part="PADS4" gate="1" x="43.18" y="129.54" rot="R180"/>
+<instance part="PADL1" gate="1" x="43.18" y="144.78" rot="R180"/>
+<instance part="PADN4" gate="1" x="17.78" y="129.54"/>
+<instance part="PADN6" gate="1" x="17.78" y="139.7"/>
+<instance part="PADL2" gate="1" x="43.18" y="149.86" rot="R180"/>
 </instances>
 <busses>
 </busses>
 <nets>
 <net name="N" class="0">
 <segment>
-<wire x1="83.82" y1="81.28" x2="83.82" y2="76.2" width="0.1524" layer="91"/>
-<junction x="83.82" y="81.28"/>
-<label x="83.82" y="76.2" size="1.778" layer="95" xref="yes"/>
-<pinref part="PAD23" gate="1" pin="P"/>
-<pinref part="PAD20" gate="1" pin="P"/>
-<pinref part="PAD21" gate="1" pin="P"/>
-<wire x1="83.82" y1="81.28" x2="83.82" y2="91.44" width="0.1524" layer="91"/>
-<pinref part="PAD24" gate="1" pin="P"/>
-<wire x1="83.82" y1="91.44" x2="83.82" y2="96.52" width="0.1524" layer="91"/>
-<junction x="83.82" y="91.44"/>
-<pinref part="PAD2" gate="1" pin="P"/>
-<wire x1="83.82" y1="96.52" x2="83.82" y2="101.6" width="0.1524" layer="91"/>
-<junction x="83.82" y="96.52"/>
+<wire x1="20.32" y1="114.3" x2="20.32" y2="109.22" width="0.1524" layer="91"/>
+<junction x="20.32" y="114.3"/>
+<label x="20.32" y="109.22" size="1.778" layer="95" xref="yes"/>
+<pinref part="PADN3" gate="1" pin="P"/>
+<pinref part="PADN2" gate="1" pin="P"/>
+<wire x1="20.32" y1="114.3" x2="20.32" y2="124.46" width="0.1524" layer="91"/>
+<pinref part="PADN4" gate="1" pin="P"/>
+<wire x1="20.32" y1="124.46" x2="20.32" y2="129.54" width="0.1524" layer="91"/>
+<junction x="20.32" y="124.46"/>
+<junction x="20.32" y="129.54"/>
+<pinref part="PADN6" gate="1" pin="P"/>
+<wire x1="20.32" y1="129.54" x2="20.32" y2="139.7" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="S" class="0">
 <segment>
-<wire x1="104.14" y1="91.44" x2="104.14" y2="88.9" width="0.1524" layer="91"/>
-<label x="104.14" y="76.2" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="40.64" y1="132.08" x2="40.64" y2="129.54" width="0.1524" layer="91"/>
+<label x="40.64" y="109.22" size="1.778" layer="95" rot="R180" xref="yes"/>
 <pinref part="R1" gate="G$1" pin="2"/>
-<pinref part="PAD10" gate="1" pin="P"/>
-<pinref part="PAD12" gate="1" pin="P"/>
-<junction x="104.14" y="88.9"/>
-<wire x1="104.14" y1="88.9" x2="104.14" y2="83.82" width="0.1524" layer="91"/>
-<pinref part="PAD11" gate="1" pin="P"/>
-<junction x="104.14" y="81.28"/>
-<wire x1="104.14" y1="83.82" x2="104.14" y2="81.28" width="0.1524" layer="91"/>
-<wire x1="104.14" y1="81.28" x2="104.14" y2="76.2" width="0.1524" layer="91"/>
-<pinref part="PAD1" gate="1" pin="P"/>
-<junction x="104.14" y="83.82"/>
+<pinref part="PADS4" gate="1" pin="P"/>
+<junction x="40.64" y="129.54"/>
+<pinref part="PADS2" gate="1" pin="P"/>
+<junction x="40.64" y="114.3"/>
+<wire x1="40.64" y1="129.54" x2="40.64" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="114.3" x2="40.64" y2="109.22" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$3" class="0">
+<net name="LIMITED" class="0">
 <segment>
 <pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="104.14" y1="101.6" x2="104.14" y2="104.14" width="0.1524" layer="91"/>
-<pinref part="PAD14" gate="1" pin="P"/>
+<wire x1="40.64" y1="142.24" x2="40.64" y2="144.78" width="0.1524" layer="91"/>
+<pinref part="PADL1" gate="1" pin="P"/>
+<pinref part="PADL2" gate="1" pin="P"/>
+<wire x1="40.64" y1="144.78" x2="40.64" y2="149.86" width="0.1524" layer="91"/>
+<junction x="40.64" y="144.78"/>
 </segment>
 </net>
 </nets>
