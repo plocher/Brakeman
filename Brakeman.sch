@@ -2205,12 +2205,12 @@ type 0309, grid 2.5 mm</description>
 <part name="FRAME1" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
 <part name="R1" library="resistor" deviceset="R-US_" device="0204/5" value="1k0"/>
 <part name="PADNF2" library="wirepad" deviceset="SMD2" device="" value="pad"/>
-<part name="PADSF" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PADNF" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADSF" library="wirepad" deviceset="SMD2" device="" value="pad"/>
+<part name="PADNF" library="wirepad" deviceset="SMD2" device="" value="pad"/>
 <part name="PADSF2" library="wirepad" deviceset="SMD2" device="" value="pad"/>
 <part name="PADL1" library="wirepad" deviceset="SMD2" device="" value="pad"/>
-<part name="PADNA" library="wirepad" deviceset="SMD2" device=""/>
-<part name="PADNA2" library="wirepad" deviceset="SMD2" device=""/>
+<part name="PADNA" library="wirepad" deviceset="SMD2" device="" value="pad"/>
+<part name="PADNA2" library="wirepad" deviceset="SMD2" device="" value="pad"/>
 <part name="PADL2" library="wirepad" deviceset="SMD2" device="" value="pad"/>
 </parts>
 <sheets>
