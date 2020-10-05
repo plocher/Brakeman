@@ -1265,19 +1265,19 @@ design rules under a new name.
 <element name="PADNA2" library="wirepad" package="SMD1.27-2.54" value="" x="18.2626" y="79.375" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="18.2626" y="79.375" size="0.0254" layer="28" rot="MR0"/>
 </element>
-<element name="PADL2" library="wirepad" package="SMD1.27-2.54" value="" x="18.2626" y="79.375" smashed="yes">
+<element name="PADL2" library="wirepad" package="SMD1.27-2.54" value="pad" x="18.2626" y="79.375" smashed="yes">
 <attribute name="VALUE" x="18.2626" y="79.375" size="0.0254" layer="27"/>
 </element>
 <element name="PADNA" library="wirepad" package="SMD1.27-2.54" value="" x="5.8166" y="71.882" smashed="yes" rot="MR200">
 <attribute name="VALUE" x="5.8166" y="71.882" size="0.0254" layer="28" rot="MR200"/>
 </element>
-<element name="PADL1" library="wirepad" package="SMD1.27-2.54" value="" x="5.8166" y="71.882" smashed="yes" rot="R160">
+<element name="PADL1" library="wirepad" package="SMD1.27-2.54" value="pad" x="5.8166" y="71.882" smashed="yes" rot="R160">
 <attribute name="VALUE" x="5.8166" y="71.882" size="0.0254" layer="27" rot="R160"/>
 </element>
-<element name="PADNF" library="wirepad" package="SMD1.27-2.54" value="" x="14.859" y="65.6844" smashed="yes" rot="R90">
+<element name="PADNF" library="wirepad" package="SMD1.27-2.54" value="pad" x="14.859" y="65.6844" smashed="yes" rot="R90">
 <attribute name="VALUE" x="14.859" y="65.6844" size="0.0254" layer="27" rot="R90"/>
 </element>
-<element name="PADSF" library="wirepad" package="SMD1.27-2.54" value="" x="8.7122" y="65.7098" smashed="yes" rot="R90">
+<element name="PADSF" library="wirepad" package="SMD1.27-2.54" value="pad" x="8.7122" y="65.7098" smashed="yes" rot="R90">
 <attribute name="VALUE" x="8.7122" y="65.7098" size="0.0254" layer="27" rot="R90"/>
 </element>
 <element name="PADSF2" library="wirepad" package="SMD1.27-2.54" value="" x="8.7122" y="65.6844" smashed="yes" rot="MR270">
@@ -1292,19 +1292,19 @@ design rules under a new name.
 <element name="PADNA1" library="wirepad" package="SMD1.27-2.54" value="" x="18.2626" y="33.655" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="18.2626" y="33.655" size="0.0254" layer="28" rot="MR0"/>
 </element>
-<element name="PADL3" library="wirepad" package="SMD1.27-2.54" value="" x="18.2626" y="33.655" smashed="yes">
+<element name="PADL3" library="wirepad" package="SMD1.27-2.54" value="pad" x="18.2626" y="33.655" smashed="yes">
 <attribute name="VALUE" x="18.2626" y="33.655" size="0.0254" layer="27"/>
 </element>
 <element name="PADNA3" library="wirepad" package="SMD1.27-2.54" value="" x="5.8166" y="26.162" smashed="yes" rot="MR200">
 <attribute name="VALUE" x="5.8166" y="26.162" size="0.0254" layer="28" rot="MR200"/>
 </element>
-<element name="PADL4" library="wirepad" package="SMD1.27-2.54" value="" x="5.8166" y="26.162" smashed="yes" rot="R160">
+<element name="PADL4" library="wirepad" package="SMD1.27-2.54" value="pad" x="5.8166" y="26.162" smashed="yes" rot="R160">
 <attribute name="VALUE" x="5.8166" y="26.162" size="0.0254" layer="27" rot="R160"/>
 </element>
-<element name="PADNF1" library="wirepad" package="SMD1.27-2.54" value="" x="14.859" y="19.9644" smashed="yes" rot="R90">
+<element name="PADNF1" library="wirepad" package="SMD1.27-2.54" value="pad" x="14.859" y="19.9644" smashed="yes" rot="R90">
 <attribute name="VALUE" x="14.859" y="19.9644" size="0.0254" layer="27" rot="R90"/>
 </element>
-<element name="PADSF1" library="wirepad" package="SMD1.27-2.54" value="" x="8.7122" y="19.9898" smashed="yes" rot="R90">
+<element name="PADSF1" library="wirepad" package="SMD1.27-2.54" value="pad" x="8.7122" y="19.9898" smashed="yes" rot="R90">
 <attribute name="VALUE" x="8.7122" y="19.9898" size="0.0254" layer="27" rot="R90"/>
 </element>
 <element name="PADSF3" library="wirepad" package="SMD1.27-2.54" value="" x="8.7122" y="19.9644" smashed="yes" rot="MR270">
@@ -1319,19 +1319,19 @@ design rules under a new name.
 <element name="PADNA4" library="wirepad" package="SMD1.27-2.54" value="" x="42.1386" y="79.375" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="42.1386" y="79.375" size="0.0254" layer="28" rot="MR0"/>
 </element>
-<element name="PADL5" library="wirepad" package="SMD1.27-2.54" value="" x="42.1386" y="79.375" smashed="yes">
+<element name="PADL5" library="wirepad" package="SMD1.27-2.54" value="pad" x="42.1386" y="79.375" smashed="yes">
 <attribute name="VALUE" x="42.1386" y="79.375" size="0.0254" layer="27"/>
 </element>
 <element name="PADNA5" library="wirepad" package="SMD1.27-2.54" value="" x="29.6926" y="71.882" smashed="yes" rot="MR200">
 <attribute name="VALUE" x="29.6926" y="71.882" size="0.0254" layer="28" rot="MR200"/>
 </element>
-<element name="PADL6" library="wirepad" package="SMD1.27-2.54" value="" x="29.6926" y="71.882" smashed="yes" rot="R160">
+<element name="PADL6" library="wirepad" package="SMD1.27-2.54" value="pad" x="29.6926" y="71.882" smashed="yes" rot="R160">
 <attribute name="VALUE" x="29.6926" y="71.882" size="0.0254" layer="27" rot="R160"/>
 </element>
-<element name="PADNF4" library="wirepad" package="SMD1.27-2.54" value="" x="38.735" y="65.6844" smashed="yes" rot="R90">
+<element name="PADNF4" library="wirepad" package="SMD1.27-2.54" value="pad" x="38.735" y="65.6844" smashed="yes" rot="R90">
 <attribute name="VALUE" x="38.735" y="65.6844" size="0.0254" layer="27" rot="R90"/>
 </element>
-<element name="PADSF4" library="wirepad" package="SMD1.27-2.54" value="" x="32.5882" y="65.7098" smashed="yes" rot="R90">
+<element name="PADSF4" library="wirepad" package="SMD1.27-2.54" value="pad" x="32.5882" y="65.7098" smashed="yes" rot="R90">
 <attribute name="VALUE" x="32.5882" y="65.7098" size="0.0254" layer="27" rot="R90"/>
 </element>
 <element name="PADSF5" library="wirepad" package="SMD1.27-2.54" value="" x="32.5882" y="65.6844" smashed="yes" rot="MR270">
@@ -1346,19 +1346,19 @@ design rules under a new name.
 <element name="PADNA6" library="wirepad" package="SMD1.27-2.54" value="" x="42.1386" y="33.655" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="42.1386" y="33.655" size="0.0254" layer="28" rot="MR0"/>
 </element>
-<element name="PADL7" library="wirepad" package="SMD1.27-2.54" value="" x="42.1386" y="33.655" smashed="yes">
+<element name="PADL7" library="wirepad" package="SMD1.27-2.54" value="pad" x="42.1386" y="33.655" smashed="yes">
 <attribute name="VALUE" x="42.1386" y="33.655" size="0.0254" layer="27"/>
 </element>
 <element name="PADNA7" library="wirepad" package="SMD1.27-2.54" value="" x="29.6926" y="26.162" smashed="yes" rot="MR200">
 <attribute name="VALUE" x="29.6926" y="26.162" size="0.0254" layer="28" rot="MR200"/>
 </element>
-<element name="PADL8" library="wirepad" package="SMD1.27-2.54" value="" x="29.6926" y="26.162" smashed="yes" rot="R160">
+<element name="PADL8" library="wirepad" package="SMD1.27-2.54" value="pad" x="29.6926" y="26.162" smashed="yes" rot="R160">
 <attribute name="VALUE" x="29.6926" y="26.162" size="0.0254" layer="27" rot="R160"/>
 </element>
-<element name="PADNF6" library="wirepad" package="SMD1.27-2.54" value="" x="38.735" y="19.9644" smashed="yes" rot="R90">
+<element name="PADNF6" library="wirepad" package="SMD1.27-2.54" value="pad" x="38.735" y="19.9644" smashed="yes" rot="R90">
 <attribute name="VALUE" x="38.735" y="19.9644" size="0.0254" layer="27" rot="R90"/>
 </element>
-<element name="PADSF6" library="wirepad" package="SMD1.27-2.54" value="" x="32.5882" y="19.9898" smashed="yes" rot="R90">
+<element name="PADSF6" library="wirepad" package="SMD1.27-2.54" value="pad" x="32.5882" y="19.9898" smashed="yes" rot="R90">
 <attribute name="VALUE" x="32.5882" y="19.9898" size="0.0254" layer="27" rot="R90"/>
 </element>
 <element name="PADSF7" library="wirepad" package="SMD1.27-2.54" value="" x="32.5882" y="19.9644" smashed="yes" rot="MR270">
@@ -1373,19 +1373,19 @@ design rules under a new name.
 <element name="PADNA8" library="wirepad" package="SMD1.27-2.54" value="" x="66.0146" y="79.375" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="66.0146" y="79.375" size="0.0254" layer="28" rot="MR0"/>
 </element>
-<element name="PADL9" library="wirepad" package="SMD1.27-2.54" value="" x="66.0146" y="79.375" smashed="yes">
+<element name="PADL9" library="wirepad" package="SMD1.27-2.54" value="pad" x="66.0146" y="79.375" smashed="yes">
 <attribute name="VALUE" x="66.0146" y="79.375" size="0.0254" layer="27"/>
 </element>
 <element name="PADNA9" library="wirepad" package="SMD1.27-2.54" value="" x="53.5686" y="71.882" smashed="yes" rot="MR200">
 <attribute name="VALUE" x="53.5686" y="71.882" size="0.0254" layer="28" rot="MR200"/>
 </element>
-<element name="PADL10" library="wirepad" package="SMD1.27-2.54" value="" x="53.5686" y="71.882" smashed="yes" rot="R160">
+<element name="PADL10" library="wirepad" package="SMD1.27-2.54" value="pad" x="53.5686" y="71.882" smashed="yes" rot="R160">
 <attribute name="VALUE" x="53.5686" y="71.882" size="0.0254" layer="27" rot="R160"/>
 </element>
-<element name="PADNF8" library="wirepad" package="SMD1.27-2.54" value="" x="62.611" y="65.6844" smashed="yes" rot="R90">
+<element name="PADNF8" library="wirepad" package="SMD1.27-2.54" value="pad" x="62.611" y="65.6844" smashed="yes" rot="R90">
 <attribute name="VALUE" x="62.611" y="65.6844" size="0.0254" layer="27" rot="R90"/>
 </element>
-<element name="PADSF8" library="wirepad" package="SMD1.27-2.54" value="" x="56.4642" y="65.7098" smashed="yes" rot="R90">
+<element name="PADSF8" library="wirepad" package="SMD1.27-2.54" value="pad" x="56.4642" y="65.7098" smashed="yes" rot="R90">
 <attribute name="VALUE" x="56.4642" y="65.7098" size="0.0254" layer="27" rot="R90"/>
 </element>
 <element name="PADSF9" library="wirepad" package="SMD1.27-2.54" value="" x="56.4642" y="65.6844" smashed="yes" rot="MR270">
@@ -1400,19 +1400,19 @@ design rules under a new name.
 <element name="PADNA10" library="wirepad" package="SMD1.27-2.54" value="" x="66.0146" y="33.655" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="66.0146" y="33.655" size="0.0254" layer="28" rot="MR0"/>
 </element>
-<element name="PADL11" library="wirepad" package="SMD1.27-2.54" value="" x="66.0146" y="33.655" smashed="yes">
+<element name="PADL11" library="wirepad" package="SMD1.27-2.54" value="pad" x="66.0146" y="33.655" smashed="yes">
 <attribute name="VALUE" x="66.0146" y="33.655" size="0.0254" layer="27"/>
 </element>
 <element name="PADNA11" library="wirepad" package="SMD1.27-2.54" value="" x="53.5686" y="26.162" smashed="yes" rot="MR200">
 <attribute name="VALUE" x="53.5686" y="26.162" size="0.0254" layer="28" rot="MR200"/>
 </element>
-<element name="PADL12" library="wirepad" package="SMD1.27-2.54" value="" x="53.5686" y="26.162" smashed="yes" rot="R160">
+<element name="PADL12" library="wirepad" package="SMD1.27-2.54" value="pad" x="53.5686" y="26.162" smashed="yes" rot="R160">
 <attribute name="VALUE" x="53.5686" y="26.162" size="0.0254" layer="27" rot="R160"/>
 </element>
-<element name="PADNF10" library="wirepad" package="SMD1.27-2.54" value="" x="62.611" y="19.9644" smashed="yes" rot="R90">
+<element name="PADNF10" library="wirepad" package="SMD1.27-2.54" value="pad" x="62.611" y="19.9644" smashed="yes" rot="R90">
 <attribute name="VALUE" x="62.611" y="19.9644" size="0.0254" layer="27" rot="R90"/>
 </element>
-<element name="PADSF10" library="wirepad" package="SMD1.27-2.54" value="" x="56.4642" y="19.9898" smashed="yes" rot="R90">
+<element name="PADSF10" library="wirepad" package="SMD1.27-2.54" value="pad" x="56.4642" y="19.9898" smashed="yes" rot="R90">
 <attribute name="VALUE" x="56.4642" y="19.9898" size="0.0254" layer="27" rot="R90"/>
 </element>
 <element name="PADSF11" library="wirepad" package="SMD1.27-2.54" value="" x="56.4642" y="19.9644" smashed="yes" rot="MR270">
@@ -1427,19 +1427,19 @@ design rules under a new name.
 <element name="PADNA12" library="wirepad" package="SMD1.27-2.54" value="" x="89.8906" y="79.375" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="89.8906" y="79.375" size="0.0254" layer="28" rot="MR0"/>
 </element>
-<element name="PADL13" library="wirepad" package="SMD1.27-2.54" value="" x="89.8906" y="79.375" smashed="yes">
+<element name="PADL13" library="wirepad" package="SMD1.27-2.54" value="pad" x="89.8906" y="79.375" smashed="yes">
 <attribute name="VALUE" x="89.8906" y="79.375" size="0.0254" layer="27"/>
 </element>
 <element name="PADNA13" library="wirepad" package="SMD1.27-2.54" value="" x="77.4446" y="71.882" smashed="yes" rot="MR200">
 <attribute name="VALUE" x="77.4446" y="71.882" size="0.0254" layer="28" rot="MR200"/>
 </element>
-<element name="PADL14" library="wirepad" package="SMD1.27-2.54" value="" x="77.4446" y="71.882" smashed="yes" rot="R160">
+<element name="PADL14" library="wirepad" package="SMD1.27-2.54" value="pad" x="77.4446" y="71.882" smashed="yes" rot="R160">
 <attribute name="VALUE" x="77.4446" y="71.882" size="0.0254" layer="27" rot="R160"/>
 </element>
-<element name="PADNF12" library="wirepad" package="SMD1.27-2.54" value="" x="86.487" y="65.6844" smashed="yes" rot="R90">
+<element name="PADNF12" library="wirepad" package="SMD1.27-2.54" value="pad" x="86.487" y="65.6844" smashed="yes" rot="R90">
 <attribute name="VALUE" x="86.487" y="65.6844" size="0.0254" layer="27" rot="R90"/>
 </element>
-<element name="PADSF12" library="wirepad" package="SMD1.27-2.54" value="" x="80.3402" y="65.7098" smashed="yes" rot="R90">
+<element name="PADSF12" library="wirepad" package="SMD1.27-2.54" value="pad" x="80.3402" y="65.7098" smashed="yes" rot="R90">
 <attribute name="VALUE" x="80.3402" y="65.7098" size="0.0254" layer="27" rot="R90"/>
 </element>
 <element name="PADSF13" library="wirepad" package="SMD1.27-2.54" value="" x="80.3402" y="65.6844" smashed="yes" rot="MR270">
@@ -1454,19 +1454,19 @@ design rules under a new name.
 <element name="PADNA14" library="wirepad" package="SMD1.27-2.54" value="" x="89.8906" y="33.655" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="89.8906" y="33.655" size="0.0254" layer="28" rot="MR0"/>
 </element>
-<element name="PADL15" library="wirepad" package="SMD1.27-2.54" value="" x="89.8906" y="33.655" smashed="yes">
+<element name="PADL15" library="wirepad" package="SMD1.27-2.54" value="pad" x="89.8906" y="33.655" smashed="yes">
 <attribute name="VALUE" x="89.8906" y="33.655" size="0.0254" layer="27"/>
 </element>
 <element name="PADNA15" library="wirepad" package="SMD1.27-2.54" value="" x="77.4446" y="26.162" smashed="yes" rot="MR200">
 <attribute name="VALUE" x="77.4446" y="26.162" size="0.0254" layer="28" rot="MR200"/>
 </element>
-<element name="PADL16" library="wirepad" package="SMD1.27-2.54" value="" x="77.4446" y="26.162" smashed="yes" rot="R160">
+<element name="PADL16" library="wirepad" package="SMD1.27-2.54" value="pad" x="77.4446" y="26.162" smashed="yes" rot="R160">
 <attribute name="VALUE" x="77.4446" y="26.162" size="0.0254" layer="27" rot="R160"/>
 </element>
-<element name="PADNF14" library="wirepad" package="SMD1.27-2.54" value="" x="86.487" y="19.9644" smashed="yes" rot="R90">
+<element name="PADNF14" library="wirepad" package="SMD1.27-2.54" value="pad" x="86.487" y="19.9644" smashed="yes" rot="R90">
 <attribute name="VALUE" x="86.487" y="19.9644" size="0.0254" layer="27" rot="R90"/>
 </element>
-<element name="PADSF14" library="wirepad" package="SMD1.27-2.54" value="" x="80.3402" y="19.9898" smashed="yes" rot="R90">
+<element name="PADSF14" library="wirepad" package="SMD1.27-2.54" value="pad" x="80.3402" y="19.9898" smashed="yes" rot="R90">
 <attribute name="VALUE" x="80.3402" y="19.9898" size="0.0254" layer="27" rot="R90"/>
 </element>
 <element name="PADSF15" library="wirepad" package="SMD1.27-2.54" value="" x="80.3402" y="19.9644" smashed="yes" rot="MR270">
