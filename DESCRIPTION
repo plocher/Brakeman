@@ -1,9 +1,11 @@
 An electronic DCC-track-driven figurine with a red or blue LED
 
-For best results when fabricating, choose
+Designed for fabrication and ease of assembly
+
+For best results when fabing, choose
   * ENIG (gold) rather than a Hot Air Solder Layer (HASL) for the pads
   * White or Blue soldermask
-  * Panalize = 2x designs
+  * Panalize = 1
 
 
 
