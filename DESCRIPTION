@@ -1,6 +1,7 @@
 An electronic DCC-track-driven figurine with a red or blue LED
 
-Designed for fabrication and ease of assembly
+v2.5 supports full SMT fabrication, with a single color on both arms.
+Previous versions alloed hand assembly and used leaded-LEDs, which let the user choose between blue or red and hand location.
 
 For best results when fabing, choose
   * ENIG (gold) rather than a Hot Air Solder Layer (HASL) for the pads (gold doesn't tarnish like tinned pads) 

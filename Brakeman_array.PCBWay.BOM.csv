@@ -1,0 +1,4 @@
+"#SPCoast John Plocher",,,Brakeman Per-Panel BOM,,,2024-01,v2.5,
+"#Item #",*Designator,*Qty,Manufacturer,*Mfg Part #,Description / Value,*Package/Footprint ,Type,Your Instructions / Notes
+1,"LED1X11,LED1X12,LED1X21,LED1X22,LED1X31,LED1X32,LED1X41,LED1X42,LED2X11,LED2X12,LED2X21,LED2X22,LED2X31,LED2X32,LED2X41,LED2X42",16,Kingsbright,APT1608SURCK,RED LED,0603-LED,SMD,OK to substitute ~250+ lumens
+2,"R1KX11,R1KX12,R1KX21,R1KX22,R1KX31,R1KX32,R1KX41,R1KX42",8,Yageo,RC0603FR-071KL,1K 1/10w 10%,0603-RES,SMD,OK to substitute
